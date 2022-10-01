@@ -1,6 +1,6 @@
 # OOP_Final_Project
 ### A simple version of the interactive alarm clock
-##Implementation
+## Implementation
 
 1. This program will first display the current time after running, and then the user can enter the time.
 
